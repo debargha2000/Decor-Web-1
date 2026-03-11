@@ -1,0 +1,81 @@
+[
+  {
+    "id": "project-01",
+    "title": "The Glass Pavilion",
+    "category": "Private Residence",
+    "year": "2024",
+    "description": "A study in transparency and light. We merged interior modular kitchen design with large expansive living areas, utilizing floor-to-ceiling glass to dissolve the boundary between the sanctuary of the home and the rugged nature outside.",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Private Collector",
+    "location": "Swiss Alps"
+  },
+  {
+    "id": "project-02",
+    "title": "Minimalist Retreat",
+    "category": "Lounge & Dining",
+    "year": "2023",
+    "description": "Seamless integration of indoor and outdoor environments, featuring luxury wooden floorings imported directly from Scandinavia. The space breathes through intentional negative space and monolithic stone features.",
+    "images": [
+      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600566753086-00f18efc2291?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Tech Executive",
+    "location": "Kyoto, Japan"
+  },
+  {
+    "id": "project-03",
+    "title": "Urban Oasis",
+    "category": "Apartment Overhaul",
+    "year": "2022",
+    "description": "Maximizing limited city space creating an illusion of infinite expanses through strategic bathroom fitting curation, monolithic wall placements, and hidden atmospheric lighting.",
+    "images": [
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Fashion Designer",
+    "location": "New York City"
+  },
+  {
+    "id": "project-04",
+    "title": "The Monolith",
+    "category": "Conceptual Villa",
+    "year": "2021",
+    "description": "A brutalist approach softened by warm interior lighting and expansive wooden elements. The Monolith stands as a stark contrast to its environment while offering absolute warmth within.",
+    "images": [
+      "https://images.unsplash.com/photo-1613490908573-1cebc883656d?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1613545325278-f24b0cae1224?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Undisclosed",
+    "location": "Desert Palisades, California"
+  },
+  {
+    "id": "project-05",
+    "title": "Heritage Restored",
+    "category": "Renovation",
+    "year": "2020",
+    "description": "Breathing modern minimalism into a 19th-century estate. We preserved the original skeletal structure while introducing ultra-modern kitchen and lounge facilities.",
+    "images": [
+      "https://images.unsplash.com/photo-1600607686527-6fb886090705?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Philanthropic Foundation",
+    "location": "London, UK"
+  },
+  {
+    "id": "project-06",
+    "title": "Solitude Cabin",
+    "category": "Off-Grid Escape",
+    "year": "2019",
+    "description": "Designed for complete detachment. This structure utilizes raw concrete and blackened timber to create a perfectly silent retreat for meditation and focus.",
+    "images": [
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=2000&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1510798831971-661eb04b3739?q=80&w=2000&auto=format&fit=crop"
+    ],
+    "client": "Contemporary Author",
+    "location": "Norwegian Fjords"
+  }
+]

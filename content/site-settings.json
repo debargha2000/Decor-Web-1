@@ -1,0 +1,45 @@
+{
+  "siteName": "Aura",
+  "architectName": "Alexander Sterling",
+  "tagline": "30 Years of Sculpting Silence.",
+  "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2000&auto=format&fit=crop",
+  "philosophy": "We believe in the immense power of empty space. A room shouldn't just be visually spectacular; it must breathe. It must allow the mind to rest. Every modular kitchen, every hand-selected wooden floor, every monolithic stone detail is a testament to our three decades of relentless pursuit of perfection.",
+  "aboutImages": [
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1555529733-0e670560f8e1?q=80&w=2000&auto=format&fit=crop"
+  ],
+  "stats": [
+    { "value": "30", "label": "Years of Excellence" },
+    { "value": "150+", "label": "Global Commissions" },
+    { "value": "12", "label": "International Awards" },
+    { "value": "1", "label": "Uncompromising Standard" }
+  ],
+  "process": [
+    {
+      "step": "01",
+      "title": "Dialogue & Discovery",
+      "description": "Understanding the rhythm of your life, the way you move through space, and the silences you seek."
+    },
+    {
+      "step": "02",
+      "title": "Spatial Choreography",
+      "description": "Mapping the flow of light, air, and human interaction before a single material is chosen."
+    },
+    {
+      "step": "03",
+      "title": "Material Sourcing",
+      "description": "Traveling to quarries and forests globally to hand-select the exact stone and timber that speaks to the design."
+    },
+    {
+      "step": "04",
+      "title": "Execution",
+      "description": "Working with master craftsmen to realize the vision with zero tolerance for compromise."
+    }
+  ],
+  "contact": {
+    "email": "inquiries@alexandersterling.com",
+    "phone": "+91 98765 43210",
+    "location": "Kolkata, West Bengal",
+    "instagram": "https://instagram.com/sterlingarchitects"
+  }
+}

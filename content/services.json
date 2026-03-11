@@ -1,0 +1,30 @@
+[
+  {
+    "id": "service-01",
+    "title": "Modular Kitchens",
+    "description": "Bespoke culinary spaces tailored to elevate your daily rituals. We blend ultra-premium materials with intelligent, invisible space allocation so form perfectly follows function.",
+    "icon": "kitchen",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745a872f?q=80&w=2000&auto=format&fit=crop"
+  },
+  {
+    "id": "service-02",
+    "title": "Wooden Floorings",
+    "description": "Elegance beneath your feet. Sourced from the finest global materials, our floorings ensure longevity, warmth, and an unparalleled tactile luxury.",
+    "icon": "flooring",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2000&auto=format&fit=crop"
+  },
+  {
+    "id": "service-03",
+    "title": "Luxury Bathrooms",
+    "description": "Sanitary and bathroom fittings rigorously selected and positioned to create a spa-like retreat. Water, light, and stone merging into a sanctuary within your own home.",
+    "icon": "bathroom",
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426bfbf0?q=80&w=2000&auto=format&fit=crop"
+  },
+  {
+    "id": "service-04",
+    "title": "Dining Spaces & Lounges",
+    "description": "Crafting atmospheres that foster human connection. From intimate dining enclaves to expansive lounging halls, every square foot is optimized for presence and acoustic perfection.",
+    "icon": "lounge",
+    "image": "https://images.unsplash.com/photo-1617806118233-18e1c0945594?q=80&w=2000&auto=format&fit=crop"
+  }
+]
