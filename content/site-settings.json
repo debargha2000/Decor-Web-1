@@ -1,7 +1,7 @@
 {
-  "siteName": "Aura",
-  "architectName": "Alexander Sterling",
-  "tagline": "30 Years of Sculpting Silence.",
+  "siteName": "FCML",
+  "architectName": "FCML",
+  "tagline": "Interior Lifestyle Products Company",
   "heroImage": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=2000&auto=format&fit=crop",
   "philosophy": "We believe in the immense power of empty space. A room shouldn't just be visually spectacular; it must breathe. It must allow the mind to rest. Every modular kitchen, every hand-selected wooden floor, every monolithic stone detail is a testament to our three decades of relentless pursuit of perfection.",
   "aboutImages": [
@@ -9,10 +9,22 @@
     "https://images.unsplash.com/photo-1555529733-0e670560f8e1?q=80&w=2000&auto=format&fit=crop"
   ],
   "stats": [
-    { "value": "30", "label": "Years of Excellence" },
-    { "value": "150+", "label": "Global Commissions" },
-    { "value": "12", "label": "International Awards" },
-    { "value": "1", "label": "Uncompromising Standard" }
+    {
+      "value": "30",
+      "label": "Years of Excellence"
+    },
+    {
+      "value": "150+",
+      "label": "Global Commissions"
+    },
+    {
+      "value": "12",
+      "label": "International Awards"
+    },
+    {
+      "value": "1",
+      "label": "Uncompromising Standard"
+    }
   ],
   "process": [
     {
@@ -37,9 +49,9 @@
     }
   ],
   "contact": {
-    "email": "inquiries@alexandersterling.com",
+    "email": "inquiries@fcmlindia.com",
     "phone": "+91 98765 43210",
     "location": "Kolkata, West Bengal",
-    "instagram": "https://instagram.com/sterlingarchitects"
+    "instagram": "https://instagram.com/fcml"
   }
 }
